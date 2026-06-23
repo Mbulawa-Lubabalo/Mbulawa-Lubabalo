@@ -1,27 +1,27 @@
-## 👋 Hi, I’m Lubabalo Mbulawa,
+## 👋 Hi, I’m Lubabalo Mbulawa
 
-I’m a final-year Software Engineering student at WeThinkCode_, passionate about building efficient, scalable solutions and continuously growing my technical abilities. I enjoy learning new technologies, solving challenging problems, and contributing to projects that make an impact.
+I am an analytical and impact-driven **Software Engineer** with a strong foundation in full-stack engineering, enterprise data systems, and workflow automation. Having transitioned from project-based training at **WeThinkCode_** to hands-on enterprise application development at **Momentum Group**, I specialize in writing clean, maintainable code and engineering optimized data solutions that drive business efficiency.
 
-## 💻 About Me
+---
 
-- 🎓 Final-year Software Engineering student at WeThinkCode_
+## 💻 Technical Toolkit
 
-- 💡 Eager to learn, collaborate, and contribute to real-world software engineering projects
+* **Languages:** Java, Python, SQL, JavaScript, HTML5/CSS3
+* **Databases & Analytics:** PostgreSQL, SQL Server, ETL Data Pipelines, Power BI
+* **Methodologies:** Object-Oriented Programming (OOP), Test-Driven Development (TDD), Agile/Scrum
 
-- 🧩 Strong interest in problem-solving, clean code, and system design
+---
 
-## 🤝 Technical Mentor
+## 🚀 Professional Snapshot
 
-Alongside my studies, I volunteered as a Technical Mentor for first year students. In this role, I:
+### 🔹 Software Engineer Intern | Momentum Group
+* Built and optimized internal enterprise web applications using PeopleSoft Application Designer.
+* Engineered secure, high-precision SQL queries to extract, clean, and transform complex datasets for BI dashboards.
 
-- Helped students understand programming fundamentals
-
-- Assisted with debugging and troubleshooting
-
-- Supported problem-solving and algorithmic thinking
-
-This experience strengthened my communication skills and taught me how to explain complex concepts clearly, work collaboratively, and maintain a high level of accuracy, qualities that directly support my growth as a Software Engineer.
-
+### 🔹 Technical Mentor (Volunteer) | WeThinkCode_
+* Provided direct architectural guidance and technical mentorship to a cohort.
+* Facilitated weekly workshops, interactive code reviews, and pair programming sessions to instill clean code practices.
+* Sharpened deep code-reading and debugging skills while clearly communicating complex algorithmic concepts.
 
 ---
 
